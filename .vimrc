@@ -6,6 +6,8 @@ set noswapfile
 set number
 set tabstop=4
 set shiftwidth=4
+" If there are problems with input
+" set encoding=utf8
 set expandtab
 set nowrap
 set cindent
